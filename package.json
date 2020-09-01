@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RichieMoreno/CryptoExample#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-rsa": "^1.1.1"
   }
 }
