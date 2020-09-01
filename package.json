@@ -1,0 +1,22 @@
+{
+  "name": "cryptoexample",
+  "version": "1.0.0",
+  "description": "Example of Cyphers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichieMoreno/CryptoExample.git"
+  },
+  "author": "Ricardo Moreno y Cesar Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichieMoreno/CryptoExample/issues"
+  },
+  "homepage": "https://github.com/RichieMoreno/CryptoExample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
